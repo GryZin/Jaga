@@ -1,2 +1,2 @@
 # Jaga
-Medical navigation system 
+Surgery navigation system 
